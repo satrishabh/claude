@@ -1,0 +1,1 @@
+all gen ai applications

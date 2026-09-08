@@ -1,0 +1,13 @@
+{
+  "name": "course-plugins",
+  "description": "A collection of plugins developed for the course.",
+  "owner": {
+    "name": "Course Team"
+  },
+  "plugin":[{
+    "name": "todo-toolkit",
+    "source": "../../tool-toolkit",
+    "description": "A toolkit for managing to-do lists and tasks."
+  }
+]
+}

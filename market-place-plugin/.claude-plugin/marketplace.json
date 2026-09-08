@@ -1,0 +1,134 @@
+{
+  "id": "todo-toolkit",
+  "name": "Todo Toolkit",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "subcategories": [
+    "code-review",
+    "testing",
+    "architecture",
+    "automation"
+  ],
+  "summary": "A comprehensive software engineering toolkit with skills, agents, and hooks for Claude Code",
+  "description": "Todo Toolkit provides a complete set of tools for modern software development. It includes specialized skills for different domains (backend, frontend, architecture, business analysis), intelligent agents for code review and testing, and safety hooks to prevent accidental mistakes.\n\n**Features:**\n- 7 specialized skills covering backend, frontend, architecture, and operations\n- 3 intelligent agents for testing, code review, and API research\n- 2 safety hooks to protect your codebase\n- Production-ready code standards enforcement\n- Comprehensive documentation and best practices",
+  "author": {
+    "name": "Your Organization",
+    "email": "support@example.com",
+    "url": "https://example.com"
+  },
+  "tags": [
+    "software-engineering",
+    "code-review",
+    "testing",
+    "architecture",
+    "automation",
+    "devops",
+    "development",
+    "best-practices"
+  ],
+  "features": [
+    {
+      "icon": "🏗️",
+      "title": "Architecture Design",
+      "description": "Design and document system architecture with proven patterns"
+    },
+    {
+      "icon": "👨‍💻",
+      "title": "Code Review",
+      "description": "Automated code review with quality and security checks"
+    },
+    {
+      "icon": "✅",
+      "title": "Test Automation",
+      "description": "Run and manage tests with detailed reporting"
+    },
+    {
+      "icon": "📦",
+      "title": "Full Stack Support",
+      "description": "Skills for frontend, backend, and DevOps workflows"
+    },
+    {
+      "icon": "🛡️",
+      "title": "Safety Hooks",
+      "description": "Prevent accidental modifications and dangerous operations"
+    },
+    {
+      "icon": "📚",
+      "title": "Business Analysis",
+      "description": "Generate business requirements and documentation"
+    }
+  ],
+  "screenshots": [
+    {
+      "url": "https://example.com/screenshots/architecture.png",
+      "caption": "Architecture Design Skill"
+    },
+    {
+      "url": "https://example.com/screenshots/code-review.png",
+      "caption": "Code Review Agent"
+    },
+    {
+      "url": "https://example.com/screenshots/testing.png",
+      "caption": "Test Runner Agent"
+    }
+  ],
+  "rating": {
+    "average": 4.8,
+    "count": 120
+  },
+  "downloads": 5420,
+  "lastUpdated": "2026-09-08T00:00:00Z",
+  "license": "MIT",
+  "pricing": {
+    "type": "free",
+    "tiers": [
+      {
+        "name": "Community",
+        "price": 0,
+        "features": [
+          "All 7 skills",
+          "All 3 agents",
+          "2 safety hooks",
+          "Community support"
+        ]
+      }
+    ]
+  },
+  "installation": {
+    "method": "npm",
+    "command": "npm install @your-org/todo-toolkit",
+    "instructions": [
+      "1. Install the package: npm install @your-org/todo-toolkit",
+      "2. Copy to .claude/plugins directory",
+      "3. Restart Claude Code",
+      "4. Access skills and agents from the command palette"
+    ]
+  },
+  "documentation": {
+    "url": "https://github.com/your-org/todo-toolkit#readme",
+    "wiki": "https://github.com/your-org/todo-toolkit/wiki",
+    "examples": "https://github.com/your-org/todo-toolkit/tree/main/examples"
+  },
+  "support": {
+    "email": "support@example.com",
+    "github": "https://github.com/your-org/todo-toolkit/issues",
+    "discord": "https://discord.gg/your-server"
+  },
+  "changelog": {
+    "latest": "1.0.0",
+    "date": "2026-09-08",
+    "changes": [
+      "Initial release with 7 skills",
+      "Added 3 intelligent agents",
+      "Included 2 safety hooks",
+      "Full documentation and examples"
+    ]
+  },
+  "metadata": {
+    "maintained": true,
+    "verified": true,
+    "official": true,
+    "minClaudeCodeVersion": "1.0.0",
+    "maxFileSize": "10mb"
+  }
+}

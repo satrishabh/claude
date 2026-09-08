@@ -31,6 +31,7 @@ export default function LoginPage() {
         <div className="text-center">
           <h1 className="text-2xl font-bold text-gray-900">Welcome back</h1>
           <p className="mt-1 text-sm text-gray-500">Sign in to your StyleHaus account</p>
+          <p className="mt-2 text-sm text-gray-600">Hello</p>
         </div>
 
         <form onSubmit={handleSubmit} className="mt-8 space-y-4">
